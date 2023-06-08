@@ -15,7 +15,7 @@ from zeit_on_tolino.tolino_partner import PartnerDetails
 from zeit_on_tolino.web import Delay
 
 TOLINO_CLOUD_LOGIN_URL = "https://webreader.mytolino.com/"
-TOLINO_COUNTRY_TO_SELECT = "Deutschland"  # TODO make country a partner shop detail depending on selected partner shop
+TOLINO_COUNTRY_TO_SELECT = "Österreich"  # TODO make country a partner shop detail depending on selected partner shop
 
 BUTTON_PLEASE_SELECT_YOUR_COUNTRY = "Bitte wähle Dein Land aus"
 BUTTON_LOGIN = "Anmelden"
